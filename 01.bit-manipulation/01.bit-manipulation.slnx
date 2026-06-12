@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.bit-manipulation.vcxproj" Id="bd1ba013-1283-4b83-9fb0-05296182cdda" />
+</Solution>
