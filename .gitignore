@@ -1,0 +1,49 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Build output directories
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Intermediate build files
+*.obj
+*.iobj
+*.ipdb
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+
+# Executables and libraries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Visual Studio generated files
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+*.log
+
+# CMake (if you ever add it)
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
