@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="8.Generating_random_numbers_within_a_specific_range.vcxproj" />
+</Solution>
