@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="12.Function_param_pass_by_address_and_other_approaches.vcxproj" />
+</Solution>
