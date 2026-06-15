@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="11.Restricting_function_overload_calls_via_delete_keyword.vcxproj" />
+</Solution>
