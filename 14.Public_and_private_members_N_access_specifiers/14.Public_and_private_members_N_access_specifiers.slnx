@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="14.Public_and_private_members_N_access_specifiers.vcxproj" />
+</Solution>
