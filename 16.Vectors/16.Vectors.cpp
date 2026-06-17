@@ -9,11 +9,17 @@ int main()
     std::cout << "The second prime number is: " << primes[1] << '\n';
     std::cout << "The sum of the first 5 primes is: " << primes[0] + primes[1] + primes[2] + primes[3] + primes[4] << '\n';
 
-
+    // Vector elements are contiguous
     std::cout << "\nAn int is " << sizeof(int) << " bytes\n";
     std::cout << &(primes[0]) << '\n';
     std::cout << &(primes[1]) << '\n';
     std::cout << &(primes[2]) << '\n';
+
+    // Vector length
+    std::cout << "length: " << primes.size() << '\n';
+
+    // Accessing array elements using the at() member function does runtime bounds checking
+    std::cout << primes.at(3); // print the value of element with index 3
 
     return 0;
 }
